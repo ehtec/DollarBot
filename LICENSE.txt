@@ -1,0 +1,24 @@
+Copyright Elias Hohl 2021. All rights reserved.
+Proprietary license DOLLARBOT
+
+These binaries may only be used in connection with a valid license key. Every customer needs a unique license key which may not be shared.
+
+The abuse or modification of this tool or the sharing of your license key is considered piracy and will be prosecuted to the full extent of applicable law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR; IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE; AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER;
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,; OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+You might also want to check out the LICENSES folder for the dependecy licenses of this application.
+
+
+
+To obtain a license key, contact:
+
+elias.hohl@ehtec.co		via email or
+
+@eliashohl			via telegram.
+
+My website: https://www.ehtec.co
+
+
